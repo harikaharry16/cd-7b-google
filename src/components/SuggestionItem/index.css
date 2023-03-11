@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.lists {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.suggestion {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #475569;
+  align-self: flex-start;
+}
+.arrow {
+  height: 20px;
+  width: 20px;
+  font-size: 20px;
+  color: #64748b;
+  align-self: flex-end;
+  align-self: center;
+}
